@@ -1,0 +1,7 @@
+End game simulations output: 
+The average number of total checks per game: 57.4
+The maximum number of total checks in a single game: 127
+The minimum number of total checks in a single game: 17
+The average number of checks on a single circle over all the games: 57.4
+The maximum number of single circle checks: 50
+The minimum number of single circle checks: 1
